@@ -24,7 +24,7 @@ function Signup() {
     <div className="container">
       <form onSubmit={handleSubmit}>
         <div class="form-group">
-          <label for="exampleInputEmail1">Nam</label>
+          <label for="exampleInputEmail1">Name</label>
           <input
             type="text"
             class="form-control"
