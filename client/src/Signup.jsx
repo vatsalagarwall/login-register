@@ -34,7 +34,7 @@ function Signup() {
           />
         </div>
         <div class="form-group">
-          <label for="exampleInputEmail1">Email address</label>
+          <label for="exampleInputEmail1">Email addres</label>
           <input
             type="email"
             class="form-control"
