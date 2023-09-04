@@ -21,7 +21,7 @@ function Signup() {
       .catch((err) => console.log(err));
   };
   return (
-    <div>
+    <div className="container">
       <form onSubmit={handleSubmit}>
         <div class="form-group">
           <label for="exampleInputEmail1">Name</label>
